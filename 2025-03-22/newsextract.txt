@@ -1,0 +1,4 @@
+A thick skin is a must for our top politicians. There's rolling news, nonstop social media and public scepticism. Add in the battle with the country's deep and persistent problems. And these days the problems include constant and very real global turmoil.
+The split() method splits a string into a list.
+
+You can specify the separator, default separator is any whitespace.
